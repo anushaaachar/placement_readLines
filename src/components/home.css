@@ -1,0 +1,55 @@
+
+.main{
+    width:100%;
+    background-color:lightgray;
+    height:97vh;
+    text-align: center;
+}
+.image_form{
+    width:100%;
+    display:flex;
+    margin:10px auto;
+    justify-content: space-around;
+}
+input{
+    width: 65%;
+    font-size: 1rem;
+    border-radius: 20px;
+    padding-right:5%;
+}
+button{
+    cursor: pointer;
+    border-radius: 14px;
+    border: none;
+    font-weight: bold;
+    margin-left: -25%;
+    background-color: black;
+    color: white;
+
+}
+.bookmark{
+    /* margin-left */
+    padding:10px;
+    background-color: gray;
+    display:inline-block;
+    margin-left:40%;
+    border-radius: 2px;;
+}
+h1{
+    color:black;
+}
+.container{
+    width:90%;
+    text-align: center;
+}
+.center{
+   
+    width: 100%;
+    /* top: 50%; */
+    position: absolute;
+    /* left: 50%; */
+    float: left;
+    margin-left: -28%;
+    font-size: 30px;
+
+}
